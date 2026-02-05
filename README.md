@@ -46,9 +46,11 @@ pip install -r requirements.txt
 ```
 
 3. Download the model weights:
+   link: https://drive.google.com/drive/folders/1PA_LZyP282gbYl0XrVfkpoDENDyczpcu?usp=sharing
 - Outpainting model: `outpaint/G_325.pth`
 - UNET Scratch model: `unet_scratch/ImageColorizationModel_8666.pth`
 - Pretrained UNET model: `colorization/model_final.pth`
+- Pretrained UNET model: `colorization/res18-unet.pth`
 - DeepLab model: `deeplab/ImageColorizationModel10.pth`
 
 ## Usage
